@@ -2,7 +2,23 @@
   outline: none;
   margin: 0;
   padding: 0;
+  list-style: none;
 }
-.wrapper{
-  box-sizing: border-box;
+.page{
+  width: 100%;
+  margin: 0 auto;
 }
+.page nav{
+  float: left;
+  width:30%;
+  
+}
+.page main{
+  float:right;
+  width: 70%;
+  background-color: #F2F2F2;
+}
+
+
+    
+  
