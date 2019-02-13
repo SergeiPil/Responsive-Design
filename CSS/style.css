@@ -5,21 +5,28 @@
   list-style: none;
 }
 body{
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
 }
 .page{
   width: 100%;
   margin: 0 auto;
+ 
 }
-.page nav{
-  float: left;
-  width:30%;
+.side-bar{
+  width: 100%;
   
 }
-.page main{
-  float:right;
-  width: 70%;
+.content{
+  width: 100%;
   background-color: #F2F2F2;
+}
+.menu{
+  float: left;
+  width: 10%;
+}
+.logo{
+  width: 90%;
 }
 
 
